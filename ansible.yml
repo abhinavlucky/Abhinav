@@ -1,0 +1,3 @@
+---
+- name: Working with ansible
+  hosts: all
